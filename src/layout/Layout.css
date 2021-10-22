@@ -1,0 +1,10 @@
+.layout {
+    background-color: #333;
+}
+.layout .movies {
+   
+}
+
+.layout .movies .movie:not(:last-child) {
+    margin-bottom: 1rem;
+}
